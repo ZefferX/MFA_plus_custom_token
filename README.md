@@ -6,7 +6,7 @@
   - Ejecuta en tu terminal:
 
     ```bash
-    git clone h[ttps://github.com/tu-usuario/nombre-del-repositorio.git](https://github.com/ZefferX/MFA_plus_custom_token/tree/main)
+    git clone https://github.com/ZefferX/MFA_plus_custom_token/tree/main
     ```
 
 - **Comprimir las lambdas:**
